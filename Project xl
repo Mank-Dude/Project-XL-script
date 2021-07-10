@@ -169,7 +169,7 @@ local creditTab = win.AddTab(nil,'Credits')
 creditTab.AddLabel(nil,'Scripter: |DEMON GOD|#2529')
 creditTab.AddLabel(nil,'Insta-Kill Method: Demon God')
 creditTab.AddLabel(nil,'UI: Demon God')
-creditTab.AddLabel(nil,'Hide UI: Shift')
+creditTab.AddLabel(nil,'Hide UI: Right Shift')
 
 
 --// imgui-Finalize 
