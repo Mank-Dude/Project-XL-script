@@ -166,9 +166,9 @@ end)()
 
 --// Credits Tab 
 local creditTab = win.AddTab(nil,'Credits')
-creditTab.AddLabel(nil,'Scripter: |DEMON GOD|#2529')
-creditTab.AddLabel(nil,'Insta-Kill Method: Demon God')
-creditTab.AddLabel(nil,'UI: Demon God')
+creditTab.AddLabel(nil,'Scripter: Assistant Simp#2529')
+creditTab.AddLabel(nil,'Insta-Kill Method: Assistant Simp')
+creditTab.AddLabel(nil,'UI: Assistant Simp')
 creditTab.AddLabel(nil,'Hide UI: Right Shift')
 creditTab.AddLabel(nil,'Discord: https://discord.gg/Z6a8PAaN')
 
