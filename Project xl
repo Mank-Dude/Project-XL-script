@@ -171,7 +171,7 @@ creditTab.AddLabel(nil,'Insta-Kill Method: Assistant Simp')
 creditTab.AddLabel(nil,'UI: Assistant Simp')
 creditTab.AddLabel(nil,'Hide UI: Right Shift')
 creditTab.AddLabel(nil,'Discord: https://discord.gg/Z6a8PAaN')
-
+creditTab.AddLabel(nil,'update 5.25')
 
 
 --// imgui-Finalize 
